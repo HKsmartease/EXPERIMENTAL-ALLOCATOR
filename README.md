@@ -41,9 +41,9 @@ This framework provides a simple, transparent, and automated evaluation system f
 
 | Data Type | Weighting Factor (T) |
 | --- | --- |
-| Public/Non-profit/Research | 1.5 |
-| Web3 Infrastructure/Education | 1.3 |
-| Commercial/Private Storage | 1.0 |
+| Public / Non-profit / Research | 1.5 |
+| Web3 Infrastructure / Education | 1.3 |
+| Commercial / Private Storage | 1.0 |
 
 ## Allocation Logic
 
